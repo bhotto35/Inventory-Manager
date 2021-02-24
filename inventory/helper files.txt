@@ -1,0 +1,10 @@
+access.php
+main.php
+redirect_main.php
+logout.php
+statistics/avg_sales.php
+statistics/stat_pdf.php
+notify.php
+list_notific.php
+alltables.php
+styles.php
